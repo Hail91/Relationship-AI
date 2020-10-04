@@ -1,6 +1,6 @@
 # Qupid
 
-Relationship AI guide designed to help you grow and developer relationships.
+Relationship AI guide designed to help you grow and develop relationships.
 
 ## Getting Started
 
